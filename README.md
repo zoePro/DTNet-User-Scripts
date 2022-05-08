@@ -9,3 +9,8 @@
 
 ![Youtube-PiP](IMG_4797.jpg)
 
+### 2）Instagram Save Images【Ins保存图片】
+
+[安装](https://raw.githubusercontent.com/zoePro/DTNet-User-Scripts/main/Instagram-Save.js)
+
+![Instagram-Save](IMG_4799.jpg)
