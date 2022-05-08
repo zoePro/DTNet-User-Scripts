@@ -3,14 +3,16 @@
 
 图片下载&某音自动连播&某管1080P高清视频解析&油猴脚本
 
+安装脚本请自带梯子
+
 ### 1）YouTube - PiP【油管画中画】
 
-[安装](https://raw.githubusercontent.com/zoePro/DTNet-User-Scripts/main/YouTube-PiP.js)
+[点我安装](https://raw.githubusercontent.com/zoePro/DTNet-User-Scripts/main/YouTube-PiP.js)
 
 ![Youtube-PiP](IMG_4797.jpg)
 
 ### 2）Instagram Save Images【Ins保存图片】
 
-[安装](https://raw.githubusercontent.com/zoePro/DTNet-User-Scripts/main/Instagram-Save.js)
+[点我安装](https://raw.githubusercontent.com/zoePro/DTNet-User-Scripts/main/Instagram-Save.js)
 
 ![Instagram-Save](IMG_4799.jpg)
